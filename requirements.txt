@@ -13,7 +13,7 @@ rouge-score
 sentencepiece
 shortuuid
 tokenizers==0.13.3
-torch==2.0.1
+torch==2.13.0
 transformers
 wandb
 datasets
